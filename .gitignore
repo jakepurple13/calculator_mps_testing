@@ -1,0 +1,3 @@
+# Project exclude paths
+/languages/com.programmersbox.tutorial.calculator/classes_gen/
+/languages/com.programmersbox.tutorial.calculator/generator/classes_gen/
